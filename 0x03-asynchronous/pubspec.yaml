@@ -1,0 +1,7 @@
+name: breaking_bad
+
+dependencies:
+  http: ^0.13.3
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
